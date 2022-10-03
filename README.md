@@ -1,7 +1,7 @@
-English base language version of the DLang Tour
+Persian base language version of the DLang Tour
 ==============================================
 
-[![Build Status](https://travis-ci.org/dlang-tour/english.svg?branch=master)](https://travis-ci.org/dlang-tour/english)
+[![Build Status](https://travis-ci.org/dlang-tour/persian.svg?branch=master)](https://travis-ci.org/dlang-tour/persian)
 
 Found a typo or want to improve the content?
 Just click on "edit" and send us a pull request.
