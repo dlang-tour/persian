@@ -11,17 +11,7 @@ don't hesitate to open an [issue](https://github.com/dlang-tour/english/issues).
 You might also be looking for the [base repository](https://github.com/dlang-tour/core)
 that hosts the content.
 
-Run locally
------------
+Contributing
+-------------
 
-You will need to fetch the [base repository](https://github.com/dlang-tour/core) via DUB once:
-
-```sh
-dub fetch dlang-tour
-```
-
-Now you can execute `dlang-tour` in the root directory of this repository:
-
-```sh
-dub run dlang-tour -- --lang-dir .
-```
+For more information see [Contributing](CONTRIBUTING.md) file(persian).
