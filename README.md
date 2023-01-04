@@ -14,4 +14,4 @@ that hosts the content.
 Contributing
 -------------
 
-For more information see [Contributing](CONTRIBUTING.md) file(persian).
+For more information see [contributing guide(persian)](CONTRIBUTING.md).
